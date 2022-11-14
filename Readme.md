@@ -22,6 +22,9 @@ Installation:
 To Start Server:
 `yarn start`  
 
+To Start Server:
+`yarn build`  
+
 To Visit App:
 `localhost:3000`  
 
